@@ -41,11 +41,11 @@
 }
 
 .font-1-xs {
-    font: 600 0.75/1.33 "Poppins", sans-serif;
+    font: 600 0.75rem/1.33 "Poppins", sans-serif;
 }
 
 .font-2-xs {
-    font: 400 0.875/1.42 "Roboto", sans-serif;
+    font: 400 0.875rem/1.42 "Roboto", sans-serif;
 }
 
 /* MEDIA QUERIES */
