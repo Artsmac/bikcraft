@@ -6,7 +6,7 @@ body {
     color: #111111;
 }
 
-h1, h2, h3, ul, p, dd, blockquote {
+h1, h2, h3, h4, ul, p, dd, blockquote {
     margin: 0;
 }
 
@@ -22,6 +22,7 @@ a {
 
 img {
     max-width: 100%;
+    height: auto;
     display: block;
 }
 
