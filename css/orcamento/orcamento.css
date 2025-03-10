@@ -138,6 +138,7 @@
     grid-template-columns: 1fr 1fr;
     border-radius: 4px;
     align-items: center;
+    margin-bottom: 8px;
   }
   
   .orcamento-detalhes li {
